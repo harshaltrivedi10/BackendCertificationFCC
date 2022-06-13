@@ -1,0 +1,19 @@
+{
+  "name": "backendcertificationfcc",
+  "version": "1.0.0",
+  "description": "This project covers the examples covered in the FreeCodeCamp certification course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshaltrivedi10/BackendCertificationFCC.git"
+  },
+  "author": "Harshal Trivedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshaltrivedi10/BackendCertificationFCC/issues"
+  },
+  "homepage": "https://github.com/harshaltrivedi10/BackendCertificationFCC#readme"
+}
